@@ -1,3 +1,19 @@
 .odd {
     background-color: hsl(0, 100%, 90%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#oneup {
+    color: rgb(0, 0, 153);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#another {
+    background-color: #66ff99;
+    font-weight: bold;
+    font-size: 24px;
 }
